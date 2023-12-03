@@ -23,3 +23,14 @@ University Graduation Work
   <img src="Image/info.png" width="250px" height="500px" >
   <img src="Image/detail.jpg" width="250px" height="500px">
 </p>
+
+## Author
+
+🙋‍♂️ ryu-coding (TaeHyeon.Ryu)
+
+- Personal Mail : ryu.coding1@gmail.com
+
+## 📝 License
+* This project is Free licensed.
+* You can use and refer to it.
+* Currently, no further development is underway.
